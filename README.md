@@ -6,13 +6,13 @@ You can see a full list of my publications on [ADS](https://ui.adsabs.harvard.ed
 
 ## Articles in refereed journals
 
-- **aa43035-22**:
+- **[aa43035-22](https://github.com/schanlar/Publications/tree/master/aa43035-22)**:
   Thermonuclear and Electron-Capture Supernovae from Stripped-Envelope Stars,
   *S. Chanlaridis*, J. Antoniadis, D.R. Aguilera-Dena, G. Gräfener, N. Langer, and N. Stergioulas,
   Accepted in Astronomy & Astrophysics, arXiv: [2201.00871](https://arxiv.org/abs/2201.00871)
   
   
-- **aa36991-19**:
+- **[aa36991-19](https://github.com/schanlar/Publications/tree/master/aa36991-19)**:
   Type Ia supernovae from non-accreting progenitors,
   J. Antoniadis, *S. Chanlaridis*, G. Gräfener, and N. Langer,
   A&A 635, A72, DOI: [doi.org/10.1051/0004-6361/201936991](https://doi.org/10.1051/0004-6361/201936991)
