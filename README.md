@@ -6,6 +6,12 @@ You can see a full list of my publications on [ADS](https://ui.adsabs.harvard.ed
 
 ## Articles in refereed journals
 
+- **[aa52259-24](https://github.com/schanlar/Publications/tree/master/aa52259-24)**
+  Formation of twin compact stars in low-mass X-ray binaries,
+  *S. Chanlaridis*, D. Ohse, D. E. Alvarez-Castillo, J. Antoniadis, D. Blaschke, V. Danchev, N. Langer, and D. Misra,
+  A&A 695, A16, DOI: [doi.org/10.1051/0004-6361/202452259](https://doi.org/10.1051/0004-6361/202452259)
+  
+
 - **[aa43035-22](https://github.com/schanlar/Publications/tree/master/aa43035-22)**:
   Thermonuclear and Electron-Capture Supernovae from Stripped-Envelope Stars,
   *S. Chanlaridis*, J. Antoniadis, D.R. Aguilera-Dena, G. Gräfener, N. Langer, and N. Stergioulas,
